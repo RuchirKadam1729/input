@@ -1,0 +1,7 @@
+gnhk_dataset
+.venv
+*cache*
+*.pdf
+*.jpg
+*png
+*jpeg
